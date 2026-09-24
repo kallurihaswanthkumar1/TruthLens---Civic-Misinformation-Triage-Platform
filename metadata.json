@@ -1,0 +1,8 @@
+{
+  "name": "TruthLens - Civic Misinformation Triage Platform",
+  "description": "A neutral, algorithmic-first civic tech triage tool for newsrooms and citizen groups to intercept viral claims, evaluate objective risk flags, and coordinate fact-checking workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
